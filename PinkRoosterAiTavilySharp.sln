@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkRoosterAi.TavilySharp", "PinkRoosterAi.TavilySharp\PinkRoosterAi.TavilySharp.csproj", "{A0E8B0D6-70A1-4302-98E0-965B96FF0A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkRoosterAi.TavilySharp.Example", "PinkRoosterAi.TavilySharp.Example\PinkRoosterAi.TavilySharp.Example.csproj", "{F54CE351-7F82-4AD3-92D4-BD3A44AB458E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkRoosterAi.TavilySharp.Tests", "PinkRoosterAi.TavilySharp.Tests\PinkRoosterAi.TavilySharp.Tests.csproj", "{66D596A8-C614-4AFE-8A99-A4E658BC8C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E8B0D6-70A1-4302-98E0-965B96FF0A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E8B0D6-70A1-4302-98E0-965B96FF0A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E8B0D6-70A1-4302-98E0-965B96FF0A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E8B0D6-70A1-4302-98E0-965B96FF0A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54CE351-7F82-4AD3-92D4-BD3A44AB458E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54CE351-7F82-4AD3-92D4-BD3A44AB458E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54CE351-7F82-4AD3-92D4-BD3A44AB458E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54CE351-7F82-4AD3-92D4-BD3A44AB458E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D596A8-C614-4AFE-8A99-A4E658BC8C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D596A8-C614-4AFE-8A99-A4E658BC8C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D596A8-C614-4AFE-8A99-A4E658BC8C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D596A8-C614-4AFE-8A99-A4E658BC8C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
